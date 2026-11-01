@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/CatchStars.Core/CatchStars.Core.csproj" />
+  <Project Path="src/CatchStars/CatchStars.csproj" />
+  <Project Path="tests/CatchStars.Tests/CatchStars.Tests.csproj" />
+</Solution>

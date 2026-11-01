@@ -1,0 +1,15 @@
+# Local build output
+/build/
+/cmake-build-*/
+**/bin/
+**/obj/
+**/TestResults/
+
+# Generated project graph and machine-specific caches
+/graphify-out/
+/.venv/
+/.cache/
+
+# Local secrets
+.env
+.env.*

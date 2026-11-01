@@ -1,0 +1,20 @@
+# Generated output and local/private settings
+graphify-out/
+.git/
+.codex/
+.agents/
+.aws/
+.env
+.env.*
+.venv/
+.cache/
+
+# Build output and downloaded dependencies
+build/
+cmake-build-*/
+vendor/
+third_party/
+external/
+**/bin/
+**/obj/
+**/TestResults/
